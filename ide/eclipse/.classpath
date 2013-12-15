@@ -66,7 +66,6 @@
 	<classpathentry excluding="Android.mk" kind="src" path="packages/apps/CMFileManager/libs/android-syntax-highlight/src"/>
 	<classpathentry excluding="Android.mk" kind="src" path="packages/apps/CMFileManager/libs/color-picker-view/src"/>
 	<classpathentry excluding="Android.mk" kind="src" path="packages/apps/CMFileManager/src"/>
-	<classpathentry excluding="Android.mk" kind="src" path="packages/apps/CMUpdater/src"/>
 	<classpathentry excluding="Android.mk" kind="src" path="packages/apps/CMWallpapers/src"/>
 	<classpathentry excluding="Android.mk" kind="src" path="packages/apps/Contacts/src"/>
 	<classpathentry excluding="Android.mk" kind="src" path="packages/apps/ContactsCommon/src"/>
@@ -83,6 +82,7 @@
 	<classpathentry excluding="Android.mk" kind="src" path="packages/apps/HTMLViewer/src"/>
 	<classpathentry excluding="Android.mk" kind="src" path="packages/apps/InCallUI/src"/>
 	<classpathentry excluding="Android.mk" kind="src" path="packages/apps/KeyChain/src"/>
+	<classpathentry excluding="Android.mk" kind="src" path="packages/apps/KylinModSetupWizard/src"/>
 	<classpathentry excluding="Android.mk" kind="src" path="packages/apps/LockClock/src"/>
 	<classpathentry excluding="Android.mk" kind="src" path="packages/apps/Mms/src"/>
 	<classpathentry excluding="Android.mk" kind="src" path="packages/apps/Nfc/src"/>
@@ -151,7 +151,6 @@
 	<classpathentry kind="lib" path="packages/apps/Calculator/libs/arity-2.1.6.jar"/>
 	<classpathentry kind="lib" path="packages/apps/Calculator/libs/ejml-0.21.jar"/>
 	<classpathentry kind="lib" path="packages/apps/Calculator/libs/slider.jar"/>
-	<classpathentry kind="lib" path="packages/apps/CMUpdater/libs/dashclock-api-r1.1.jar"/>
 	<classpathentry kind="lib" path="external/google/analytics_sdk_v2/libGoogleAnalyticsV2.jar"/>
 	<classpathentry kind="lib" path="out/target/common/obj/JAVA_LIBRARIES/bouncycastle_intermediates/classes-jarjar.jar"/>
 	<classpathentry kind="lib" path="out/target/common/obj/JAVA_LIBRARIES/android-common_intermediates/javalib.jar"/>
